@@ -14,5 +14,6 @@
 </div>
 
 #### Além das linguagens de programação, trabalho com ferramentas de vizualização de dados, como o Power BI.
+#### Sou Pós-Graduando em MBA em Business Intelligence e Pós-Graduando em Ciencia de Dados, também sou um entusiasta da programação voltada para a análise de dados.
 
 #### Me siga para acompanhar o meu conteúdo.
