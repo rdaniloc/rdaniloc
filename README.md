@@ -5,7 +5,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilocaiena/)
 
-![Danilo Caiena GitHub stats](https://github-readme-stats.vercel.app/api?username=rdaniloc&show_icons=true&theme=radical)
+![Danilo Caiena GitHub stats](https://github-readme-stats.vercel.app/api?username=rdaniloc&show_icons=true&theme=dracula)
 
 ### Técnologias que eu uso
 
